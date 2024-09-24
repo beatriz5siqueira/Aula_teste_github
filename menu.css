@@ -1,0 +1,16 @@
+.menu
+{
+  background-color: black;
+   color: white
+}
+
+.Menulista
+{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    width: 800px;
+    margin: auto;
+    height: 50px;
+    align-items: center;
+}

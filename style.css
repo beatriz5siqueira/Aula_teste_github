@@ -1,0 +1,15 @@
+.section{
+    max-width: 400px;
+    margin: auto;
+    border: 1px solid black;
+    display: flex;
+   justify-content: space-between
+}
+
+.item
+{
+    margin: 5px;
+    background-color: chocolate;
+    text-align: center;
+    font-size: 26px;
+}
